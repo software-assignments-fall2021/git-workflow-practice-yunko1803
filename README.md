@@ -1,2 +1,3 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# Article
+
+#[How NFT Will Change The World](https://www.verizon.com/about/news/how-nft-will-change-content-world)
